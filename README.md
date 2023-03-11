@@ -1,4 +1,4 @@
-# modelto-predictwhether-a-person-makes-over-50k-dollars-a-year
+# Classification model to predict whether a person makes over $50k a year
 
 ## Problem statement : 
 Create a classification model to predict whether a person makes over $50k a year.
